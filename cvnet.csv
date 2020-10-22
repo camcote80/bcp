@@ -1,0 +1,852 @@
+﻿id,name,parent,size
+1,Crypto Valley Network,,
+2,Academia & Educations,1,
+3,Academia,2,
+4,Center for Innovative Finance (University of Basel),3,100
+5,EPFL Lausanne,3,100
+6,ETH Zürich,3,100
+7,FHNW,3,100
+8,HSLU,3,100
+9,HWZ,3,100
+10,UniSG,3,100
+11,University of Neuchatel,3,100
+12,UZH,3,100
+13,ZHAW,3,100
+14,Education,2,
+15,B.ACADEMY,3,100
+16,BC Investment,3,100
+17,bIOTs,3,100
+18,BitBrain Academy,3,100
+19,Bitcoin Embassy Switzerland,3,100
+20,Blockchain Society,3,100
+21,CAS Blockchain Certification,3,100
+22,Crypto Valley Academy,3,100
+23,Crypto Valley University,3,100
+24,DEDIS,3,100
+25,Otona,3,100
+26,Swiss Blockchain Summer School,3,100
+27,SwissCryptoSchool.com,3,100
+28,The Blockchain Society Lab,3,100
+29,Research,2,
+30,AI + Blockchain,3,100
+31,Blockchain Car dossier,3,100
+32,Center for Digital Trust,3,100
+33,Cryptecon,3,100
+34,Dezentrum,3,100
+35,Distributed Technologies Research,3,100
+36,EUREKA,3,100
+37,NEMoGrid,3,100
+38,Top Coin Rating,3,100
+39,UZH Blockchain Center,3,100
+40,"Events, Associations & Media",1,
+41,Association,2,
+42,Association BitDRA,3,100
+43,B. O. T. Latin America,3,100
+44,Bitcoin Association Switzerland,3,100
+45,Blockchain Switzerland,3,100
+46,Blockchain X,3,100
+47,CMTA,3,100
+48,Crypto Country association,3,100
+49,Crypto Explorers,3,100
+50,Crypto Valley Association,3,100
+51,Crypto Valley Society,3,100
+52,Cryptopolis,3,100
+53,DAppNode Association,3,100
+54,Digitalswitzerland,3,100
+55,Energy Web,3,100
+56,FIBREE,3,100
+57,Global Blockchain Business Council,3,100
+58,Greater Zurich Area,3,100
+59,IBREA,3,100
+60,Indo Swiss Blockchain Alliance,3,100
+61,MAMA,3,100
+62,Sacagroup,3,100
+63,Society3 Group,3,100
+64,Swiss Association of Crypto Investors,3,100
+65,Swiss Blockchain Association,3,100
+66,Swiss Finance Technology Association,3,100
+67,Swiss Fintech Innovations,3,100
+68,Swiss-Polish Blockchain Association,3,100
+69,Switzerland Global Enterprise,3,100
+70,Switzerland Innovation,3,100
+71,Trustless Computing Association,3,100
+72,Wirtschaftsförderung Luzern - Lucerne Business,3,100
+73,Women in Blockchain Switzerland,3,100
+74,Event,2,
+75,Blockchain and Bitcoin Conference Switzerland,3,100
+76,Blockchain Leadership Summit,3,100
+77,Blockchain Summit Crypto Valley,3,100
+78,Blockchainers,3,100
+79,CoinPro,3,100
+80,Crypto + ICO Summit,3,100
+81,Crypto Finance Conference,3,100
+82,Crypto World Zug,3,100
+83,Finance 2.0,3,100
+84,Geneva DevChain,3,100
+85,Start Global,3,100
+86,Start Hack,3,100
+87,Media,2,
+88,Bitcoin News Schweiz,3,100
+89,Crypto Valley Journal,3,100
+90,CryptoLook,3,100
+91,decentraLIVE,3,100
+92,Finews,3,100
+93,Fintech News Switzerland,3,100
+94,Refind,3,100
+95,Startupticker,3,100
+96,Financial Industries,1,
+97,Asset Management & Investment,2,
+98,Asymmetrica Investments,3,100
+99,atpar,3,100
+100,Aximetria,3,100
+101,Bamboo Core,3,100
+102,Base58,3,100
+103,Black River Asset Management,3,100
+104,BlackNash Ventures,3,100
+105,Blockchain District,3,100
+106,BlockNovum,3,100
+107,BlockNovum,3,100
+108,Blocksmatter,3,100
+109,Blockstate,3,100
+110,Blueshare,3,100
+111,blufolio,3,100
+112,Bravis,3,100
+113,Calidris Fintech,3,100
+114,Chain Capital,3,100
+115,CraftR,3,100
+116,Craider,3,100
+117,Crowdlitoken,3,100
+118,Crypto Fund,3,100
+119,Crypto Star Index,3,100
+120,CryptoEasy,3,100
+121,Cryptonomics Capital,3,100
+122,Cryptos Fund,3,100
+123,Curio Invest,3,100
+124,Custodian Services,3,100
+125,Cybertrust,3,100
+126,DaVinci Token,3,100
+127,Decentriq,3,100
+128,Decom,3,100
+129,Dizrupt,3,100
+130,Equibit Group,3,100
+131,Eterbase,3,100
+132,FICAS,3,100
+133,Final Frontier,3,100
+134,Forctis,3,100
+135,Gainwise,3,100
+136,GenTwo Digital,3,100
+137,Goldbaum & Partners,3,100
+138,Jibrel Network,3,100
+139,LakeDiamond,3,100
+140,Ledgity,3,100
+141,Leva Capital Partners,3,100
+142,Maecenas,3,100
+143,Mars Nation,3,100
+144,Melonport,3,100
+145,Mercuria Helvetica,3,100
+146,Midas Technologies,3,100
+147,Moondock,3,100
+148,Nortide Capital,3,100
+149,Polytech Ventures Holding,3,100
+150,Protos Asset Management,3,100
+151,Realstocks,3,100
+152,Relai,3,100
+153,Rennaissance Capital,3,100
+154,RevenYou,3,100
+155,RigoBlock,3,100
+156,SIBEX,3,100
+157,Smart Valor,3,100
+158,Soramitsu Holdings,3,100
+159,Spirit Blockchain,3,100
+160,Staxe,3,100
+161,Swiss UniCryp,3,100
+162,Swissblock Capital,3,100
+163,SwissRex,3,100
+164,SwissWide,3,100
+165,Synergy Quantum,3,100
+166,Taurus Group,3,100
+167,Tend,3,100
+168,Traxia Foundation,3,100
+169,Trecento Blockchain Capital,3,100
+170,VALORchain,3,100
+171,Vertex Capital,3,100
+172,Vision&,3,100
+173,Wealthinitiative,3,100
+174,Zichain,3,100
+175,Alpha Block,3,100
+176,Alpina Capital,3,100
+177,Altcoinomy,3,100
+178,"Broker, Trade & Exchange",2,
+179,Bitcodex,3,100
+180,Bitcoin ATM Liechtenstein,3,100
+181,Bitcoin Suisse,3,100
+182,Bitmax,3,100
+183,Bittoria,3,100
+184,Bity,3,100
+185,Block Stocks Swiss,3,100
+186,Blocktrade,3,100
+187,BTC Express,3,100
+188,Cerealia,3,100
+189,Chainium,3,100
+190,CoreLedger,3,100
+191,Cryptalgo,3,100
+192,Crypto Broker,3,100
+193,Crypto Capital,3,100
+194,CryptoGroup Swiss,3,100
+195,Cryptoz Liechtenstein,3,100
+196,CTEX Markets,3,100
+197,CyberBTC,3,100
+198,Darico,3,100
+199,Daura,3,100
+200,DeepAlpha,3,100
+201,DEx.top,3,100
+202,Ecurex,3,100
+203,Extauri,3,100
+204,Hedge Crypto,3,100
+205,Konios Project,3,100
+206,Lamassu,3,100
+207,LCX,3,100
+208,Lescovex Digital Assets,3,100
+209,Liquidity Network,3,100
+210,Lykke,3,100
+211,MachinaWare,3,100
+212,Mercato,3,100
+213,MIMIC,3,100
+214,Monetae,3,100
+215,MyBit,3,100
+216,Nash,3,100
+217,Omega One,3,100
+218,Shapeshift,3,100
+219,SIX Digital Exchange,3,100
+220,Stokx,3,100
+221,Swiss Crypto Exchange,3,100
+222,Swisscointer,3,100
+223,Token Suisse,3,100
+224,Trade.io,3,100
+225,Trilliant,3,100
+226,Verto Exchange,3,100
+227,Wolowz Exchange,3,100
+228,Adara,3,100
+229,Algo Trader,3,100
+230,Amun,3,100
+231,Andromeda Group,3,100
+232,Andromeda Suisse,3,100
+233,Aquarius Exchange,3,100
+234,Crypto Bank,2,
+235,Bitwala,3,100
+236,Crypto Finance,3,100
+237,Finoa,3,100
+238,Fintechnics,3,100
+239,Liquineq,3,100
+240,Mt Pelerin,3,100
+241,Oyoba,3,100
+242,SEBA Crypto,3,100
+243,SwissBorg,3,100
+244,Sygnum,3,100
+245,Crypto Tokens,2,
+246,Corion,3,100
+247,element36,3,100
+248,Equacoin,3,100
+249,GID COIN,3,100
+250,Globcoin,3,100
+251,Kroin,3,100
+252,Saga,3,100
+253,Stutz,3,100
+254,Swisscoin,3,100
+255,SwissDiamondCoin,3,100
+256,Tiberius,3,100
+257,Truegold,3,100
+258,WLTH,3,100
+259,X8 Currency,3,100
+260,Alprockz,3,100
+261,Lending & Funding,2,
+262,Bloomio,3,100
+263,CIG-Exchange,3,100
+264,Deep Knowledge Ventures,3,100
+265,ETHLend,3,100
+266,Homelend,3,100
+267,Nexo,3,100
+268,Smart Credit,3,100
+269,SmartContractChain,3,100
+270,Starbase Platform,3,100
+271,Verified,3,100
+272,AgroFintech,3,100
+273,Payment & Stabletoken,2,
+274,BITC,3,100
+275,Counos Coins,3,100
+276,Cryptix,3,100
+277,Crypto.com,3,100
+278,CryptoHawk,3,100
+279,GloBee International,3,100
+280,Korona Blockchain Ecosystem Foundation,3,100
+281,LAPO,3,100
+282,Monetas,3,100
+283,MoneyGrid,3,100
+284,Payment21,3,100
+285,Rapidz,3,100
+286,Request Network,3,100
+287,ShaktiCoin,3,100
+288,Swiss Crypto Tokens,3,100
+289,The Stone Coin,3,100
+290,TokenPay Swiss,3,100
+291,Transfero Swiss,3,100
+292,Tsrpay,3,100
+293,Ubunutcoin,3,100
+294,UTRUST,3,100
+295,Värdex,3,100
+296,Zulu Republic,3,100
+297,ambrpay,3,100
+298,Wallet & Vault,2,
+299,Arca Trust,3,100
+300,BlockVault International,3,100
+301,Bread,3,100
+302,Crypto Storage,3,100
+303,CustoDigit,3,100
+304,Eidoo,3,100
+305,ft.digital fintech,3,100
+306,FuzeX,3,100
+307,Ledgerdash,3,100
+308,Metaco,3,100
+309,Pigzbe,3,100
+310,Pillar,3,100
+311,SAVL,3,100
+312,SILO,3,100
+313,Swiss Crypto Vault,3,100
+314,Tangem,3,100
+315,Xapo,3,100
+316,AirGap,3,100
+317,Other Industries,1,
+318,Art,2,
+319,4ARTechnologies,3,100
+320,Arteia,3,100
+321,Noow,3,100
+322,Orion Vault,3,100
+323,TheArtToken,3,100
+324,VR All Art,3,100
+325,E-Government &  Personal Data,2,
+326,21 lectures,3,100
+327,Bitcoin Schweiz,3,100
+328,Candoo Labs,3,100
+329,Diro Labs,3,100
+330,Fetch Blockchain,3,100
+331,Kriptan,3,100
+332,Lillup,3,100
+333,Pikciochain,3,100
+334,Procivis,3,100
+335,Skillchain,3,100
+336,VETRI,3,100
+337,WISeCoin,3,100
+338,Energy & Utility,2,
+339,Bitlumens,3,100
+340,Bovlabs,3,100
+341,BroadLights,3,100
+342,Buildcoin,3,100
+343,Climatecoin,3,100
+344,Hive Power,3,100
+345,Pexapark,3,100
+346,Prosume,3,100
+347,Thorium,3,100
+348,VOLTEX,3,100
+349,WPP Energy,3,100
+350,HealthTech,2,
+351,DAYS.Exchange,3,100
+352,Digipharm,3,100
+353,HIT,3,100
+354,Linum Labs,3,100
+355,Lyfegen,3,100
+356,Medicalchain,3,100
+357,Medicohealth,3,100
+358,MEDoctor,3,100
+359,OneBio,3,100
+360,Patientory,3,100
+361,Sana,3,100
+362,InsurTech,2,
+363,88Insurtech,3,100
+364,Asure Network,3,100
+365,B3i Services,3,100
+366,Decentralized Insurance,3,100
+367,Etherisc,3,100
+368,Kasko2go,3,100
+369,Reportix,3,100
+370,ShieldIT,3,100
+371,Versicherix,3,100
+372,VouchForMe,3,100
+373,Media & Entertainment,2,
+374,Appics,3,100
+375,BetBox,3,100
+376,Decent,3,100
+377,Ethereum Movie Venture,3,100
+378,EverdreamSoft,3,100
+379,Ipstock,3,100
+380,LabelsCoin,3,100
+381,Pocketarena,3,100
+382,Publiq,3,100
+383,ScienceMatters,3,100
+384,SCREENIST Blockchain Technologies,3,100
+385,SGame Pro,3,100
+386,Singular DTV,3,100
+387,Strudel,3,100
+388,Utopiamusic,3,100
+389,WeSing Coin,3,100
+390,PropTech,2,
+391,AlgoTecture,3,100
+392,Blockimmo,3,100
+393,Bluenote,3,100
+394,BrickMark,3,100
+395,BrikBit,3,100
+396,Cryptectum,3,100
+397,Dynasty Global Investment,3,100
+398,Elea Labs,3,100
+399,Elocations,3,100
+400,IMBREX,3,100
+401,PrepayWay,3,100
+402,SwissRealCoin,3,100
+403,Tokenestate,3,100
+404,RegTech & LegalTech,2,
+405,Aidcoin,3,100
+406,Aidonic,3,100
+407,Contract Vault,3,100
+408,HoryouToken,3,100
+409,Naefos,3,100
+410,Porini,3,100
+411,Poseidon Foundation,3,100
+412,SmartOne,3,100
+413,Transport & Supply Chain,2,
+414,Acatena,3,100
+415,Ambrosus Technologies,3,100
+416,Arxum,3,100
+417,BitNautic,3,100
+418,Dav network,3,100
+419,Equippo,3,100
+420,FoodCoin Ecosystem,3,100
+421,Freight Coin,3,100
+422,Gatechain,3,100
+423,Genuine Way,3,100
+424,Modum,3,100
+425,Olam,3,100
+426,Open Packaging Network,3,100
+427,RiceExchange,3,100
+428,SkyCell,3,100
+429,Slavefreetrade,3,100
+430,SmartContainers,3,100
+431,Sweetbridge,3,100
+432,Travel & Leisure,2,
+433,CryptoCribs,3,100
+434,Fresco,3,100
+435,LOOiX,3,100
+436,Luxochain,3,100
+437,ParkinGO,3,100
+438,Peerspoint,3,100
+439,Swissbloc Capital,3,100
+440,Winding Tree,3,100
+441,Regulators,1,
+442,Regulator,2,
+443,FINMA,3,100
+444,FMA,3,100
+445,State Secretariat for International Finance - SIF,3,100
+446,Service Provider,1,
+447,"Accelerator, Incubator & Co-working",2,
+448,Blockchain Propulsion,3,100
+449,Bluelion,3,100
+450,Chainwork,3,100
+451,Crypto Valley Labs,3,100
+452,Distributed Ventures AG,3,100
+453,F10 Incubator & Accelerator,3,100
+454,FintechFusion,3,100
+455,International Create Challenge,3,100
+456,Kickstarter,3,100
+457,Mass Challenge,3,100
+458,Rising Star Accelerator,3,100
+459,Swiss Startup Factory and Helvetia Insurtech Accelerator,3,100
+460,Technopark Luzern,3,100
+461,Thomson Reuters Lab,3,100
+462,Trust Square,3,100
+463,Twenty Thirty (2030),3,100
+464,"Accounting, Audit  & Tax",2,
+465,256 & CO,3,100
+466,Accointing,3,100
+467,Actus Tax,3,100
+468,Deloitte,3,100
+469,EY,3,100
+470,Fineac Treuhand,3,100
+471,Ganten Group,3,100
+472,GN Treuhand,3,100
+473,KPMG,3,100
+474,Lucris,3,100
+475,PwC,3,100
+476,Banking Services,2,
+477,Bank Frick,3,100
+478,Falcon,3,100
+479,SIX,3,100
+480,Swissquote,3,100
+481,Turicum Private Bank,3,100
+482,Vontobel,3,100
+483,Consulting & Implementation,2,
+484,4_eyes,3,100
+485,4bridges,3,100
+486,ABC Mint,3,100
+487,Abele Innovation Consulting,3,100
+488,Accenture,3,100
+489,AdNovum,3,100
+490,Agavon,3,100
+491,Bitfinitum,3,100
+492,Block Hill Ventures,3,100
+493,Blockbrew,3,100
+494,Blockchain & Cryptocurrency Services Zug,3,100
+495,Blockchain Buero,3,100
+496,Blockchain Exploration,3,100
+497,Blockchain Initiatives,3,100
+498,Blockchain Revolution,3,100
+499,Blockchain Solutions,3,100
+500,Blockchain Source,3,100
+501,Blockfactory,3,100
+502,BlockFactory,3,100
+503,BlockLogiX,3,100
+504,Blue Tree Advisors,3,100
+505,BrightNode.io,3,100
+506,Bussmann Advisory,3,100
+507,Capgemini,3,100
+508,Cappiello Group,3,100
+509,Codex Execution,3,100
+510,Cognizant,3,100
+511,CoinTec,3,100
+512,Compliance Group,3,100
+513,ConsensusLab,3,100
+514,Consulcesi,3,100
+515,Crypto Advisory Group,3,100
+516,Crypto Consulting,3,100
+517,Crypto Council Suisse,3,100
+518,Crypto Currency Consulting,3,100
+519,Crypto Nike,3,100
+520,Cryptolex,3,100
+521,Cryptoprofiler,3,100
+522,DactaTrace.swiss,3,100
+523,Das Netz,3,100
+524,DecentAge,3,100
+525,Deepit,3,100
+526,Dialethoo,3,100
+527,Digital Assets Legal Advisors,3,100
+528,Digital identity,3,100
+529,Digital Ledger Systems,3,100
+530,digitaliKa,3,100
+531,DLT Invest,3,100
+532,E-metis,3,100
+533,ELCA,3,100
+534,Eleva Partners,3,100
+535,Emotiq,3,100
+536,Epiphany,3,100
+537,Espeo Software,3,100
+538,Finka,3,100
+539,First Advisory Group,3,100
+540,FORFA Consulting,3,100
+541,Frehel,3,100
+542,Globex,3,100
+543,Goodx Finance Network,3,100
+544,Helvetia Fintech,3,100
+545,Hubchain,3,100
+546,IBEX,3,100
+547,IBM,3,100
+548,icde.team,3,100
+549,Inacta,3,100
+550,inqube,3,100
+551,Inqube,3,100
+552,Integration alpha,3,100
+553,Iprotus,3,100
+554,Japan Communicate,3,100
+555,Jud Schöni and Partner,3,100
+556,KACO,3,100
+557,Kopanyo,3,100
+558,Kore Technologies,3,100
+559,Kraft Bio,3,100
+560,Lakeside Business Center,3,100
+561,Lüscher Blockchain Revolution,3,100
+562,Luxoft,3,100
+563,Menova,3,100
+564,Nexussquared,3,100
+565,NOUMENA Digital,3,100
+566,Noviant,3,100
+567,Oakura Ventures,3,100
+568,Old School,3,100
+569,Papers,3,100
+570,Pom+ Consulting,3,100
+571,Proof of Work,3,100
+572,Q innovations,3,100
+573,Ruppli Digital Real Estate Advisory,3,100
+574,Scenic Swisscoast,3,100
+575,Silkchain,3,100
+576,SKB Advisors,3,100
+577,Smart Finance,3,100
+578,STOBox Platform,3,100
+579,Swiss Blockchain Solutions,3,100
+580,Swiss Blockchain Technologies,3,100
+581,Swiss Crypto Advisors,3,100
+582,Swiss Cryptotech,3,100
+583,Swissblock Technologies,3,100
+584,Swisscom Blockchain,3,100
+585,TARCO,3,100
+586,Temenos,3,100
+587,The Singularity Group,3,100
+588,Trinkler Software,3,100
+589,Validity Labs,3,100
+590,Valinor,3,100
+591,Verticom,3,100
+592,Visceral,3,100
+593,VYOMA Partner,3,100
+594,WeCan.Fund,3,100
+595,Whitelabel-Coins,3,100
+596,Wisekey,3,100
+597,Xupery,3,100
+598,Zero Knowledge Labs,3,100
+599,Zillion Bits,3,100
+600,Zühlke,3,100
+601,HR Services & Recruiting,2,
+602,Alpere,3,100
+603,Rockstar Recruiting,3,100
+604,Talent4Gig,3,100
+605,ICO/STO Services,2,
+606,Alethena (Equility),3,100
+607,Atlantic Neotechnologies,3,100
+608,Blockhaus,3,100
+609,Brainbot Labs,3,100
+610,Cryptadvise,3,100
+611,EST Capital,3,100
+612,Forkwealth,3,100
+613,ICOStart,3,100
+614,ICOVO,3,100
+615,STX.SWISS,3,100
+616,Token Factory,3,100
+617,TokenCraft,3,100
+618,tokengate,3,100
+619,Verum Capital,3,100
+620,Legal & Compliance,2,
+621,"Advocatur Seeger, Frick und Partner",3,100
+622,Archilex,3,100
+623,Bär & Karrer,3,100
+624,Comply Now,3,100
+625,De la cruz beranek,3,100
+626,Dr. Mattia L. Rattaggi Advisory & Consultancy,3,100
+627,Erbguth,3,100
+628,Froriep,3,100
+629,Grunder Rechtsanwälte,3,100
+630,ICO Legal Advisor,3,100
+631,Jaybee,3,100
+632,KYC Spider,3,100
+633,Lawshift,3,100
+634,Leax Avocats,3,100
+635,Legal Technology Switzerland,3,100
+636,LEXcellence,3,100
+637,Lexpert Partners,3,100
+638,Lexr,3,100
+639,Meyerlustenberger Lachenal,3,100
+640,MME,3,100
+641,Nägele-Rechtsanwälte,3,100
+642,Niederer Kraft & Frey,3,100
+643,Prager Dreifuss,3,100
+644,Pst Consulting,3,100
+645,PwC Legal,3,100
+646,Stach Rechtsanwälte,3,100
+647,Structuul,3,100
+648,Walder Wyss,3,100
+649,Wenger & Vieli,3,100
+650,"PR, Marketing & Communication",2,
+651,Adconity,3,100
+652,Blockchain Lab,3,100
+653,Brand Leadership Circle,3,100
+654,Coinounce,3,100
+655,cryptomedia agency,3,100
+656,FFI Ventures,3,100
+657,Furrerhugi,3,100
+658,Gremis,3,100
+659,HYGH,3,100
+660,Iconised,3,100
+661,Interwerk LAB,3,100
+662,Moon Bounties,3,100
+663,Narwal,3,100
+664,Scale Network,3,100
+665,Sionik,3,100
+666,The Relevance House,3,100
+667,What.digital,3,100
+668,Security & Encryption,2,
+669,Chainsecurity,3,100
+670,Crypto Insurance Swiss,3,100
+671,InfoGuard,3,100
+672,Inpher,3,100
+673,MyWallet.ch,3,100
+674,Netguardians,3,100
+675,Securify,3,100
+676,Securosys,3,100
+677,Venture Capital,2,
+678,Bellegarde Capital,3,100
+679,Bitfinancial Holding,3,100
+680,Blockchain Valley Ventures,3,100
+681,Bochsler Finance,3,100
+682,Deeptech Ventures,3,100
+683,Founders Ventures,3,100
+684,Fundraiso,3,100
+685,Grydl Analytics,3,100
+686,Hyperion Capital,3,100
+687,Innmind,3,100
+688,Investiere,3,100
+689,Lakeside Partners,3,100
+690,Pangea,3,100
+691,Redalpine Ventures,3,100
+692,SICTIC,3,100
+693,Wemakeit,3,100
+694,Technology,1,
+695,AI,2,
+696,CogniPet,3,100
+697,CryptoScore,3,100
+698,Demiurge Technologies,3,100
+699,HumanAI,3,100
+700,Localflow,3,100
+701,Mindfire,3,100
+702,ORS,3,100
+703,Pandora Boxchain,3,100
+704,UBEX,3,100
+705,Velas,3,100
+706,Vimana,3,100
+707,Communication & Collaboration,2,
+708,Akasha International,3,100
+709,AKN,3,100
+710,Covee Network,3,100
+711,Experty.io,3,100
+712,Gmelius,3,100
+713,HARDAH,3,100
+714,Ibt,3,100
+715,ODEM,3,100
+716,Sharekey,3,100
+717,"Community, P2P & Loyalty",2,
+718,Adjoint,3,100
+719,Bitnation,3,100
+720,Flov technologies,3,100
+721,Friendz,3,100
+722,Gambio Service,3,100
+723,Heymate,3,100
+724,Heymate,3,100
+725,Impresso Labs,3,100
+726,JOINto,3,100
+727,JUR,3,100
+728,KontraHub,3,100
+729,LoyaltyCoin,3,100
+730,Matchpool,3,100
+731,Momentum,3,100
+732,Qiibee,3,100
+733,Repay.me,3,100
+734,Rightmesh,3,100
+735,Shopiblock,3,100
+736,SwarmCity,3,100
+737,UbiatarPlay,3,100
+738,Wings,3,100
+739,Yes we Trust,3,100
+740,Data & Analytics,2,
+741,Ambitorio,3,100
+742,Blockchain Intelligence Group,3,100
+743,CBN Foundation,3,100
+744,Crypto Potential,3,100
+745,Datum Network,3,100
+746,Essentia One,3,100
+747,Gordon.Now,3,100
+748,Holo.host,3,100
+749,IP exchange,3,100
+750,NCloud,3,100
+751,OVCODE,3,100
+752,PetSource,3,100
+753,Santiment,3,100
+754,Streamr,3,100
+755,SwissTruth,3,100
+756,Hardware & Infrastructure,2,
+757,CoinGarden,3,100
+758,Cooby,3,100
+759,CoreLedger Labs,3,100
+760,Cryptium Labs,3,100
+761,Deon Digital,3,100
+762,ETCDEV,3,100
+763,Golem,3,100
+764,Indenodes,3,100
+765,Indus Finch Group,3,100
+766,Ipso Microelectronics,3,100
+767,Lamden,3,100
+768,Optherium,3,100
+769,Particl.io,3,100
+770,Proxeus,3,100
+771,Race-Cap Corporate,3,100
+772,Safekee,3,100
+773,ShiftDevice,3,100
+774,Sirin Labs,3,100
+775,Swiss Blockchain Technology,3,100
+776,Swissmine,3,100
+777,IoT,2,
+778,Airbie,3,100
+779,Cajutel,3,100
+780,sustainCHAIN,3,100
+781,Symbioses,3,100
+782,Mining,2,
+783,Bitmain,3,100
+784,Blockchain Mining,3,100
+785,Eco Energy Blockchain Solutions,3,100
+786,Helvetic Mine,3,100
+787,Hive Blockchain Switzerland,3,100
+788,Invemo,3,100
+789,Life Quality Management,3,100
+790,MineCrypt,3,100
+791,Swiss Alps Mining,3,100
+792,Swiss Mining Space,3,100
+793,Unity Investment,3,100
+794,Platform &  Protocol,2,
+795,ABC Platform,3,100
+796,Aerum,3,100
+797,Aeternity,3,100
+798,Agoora Labs,3,100
+799,Aragon,3,100
+800,Aragon One,3,100
+801,Bancor,3,100
+802,Block Collider,3,100
+803,Boscoin,3,100
+804,Cardano,3,100
+805,Cardstack,3,100
+806,Coinnect,3,100
+807,Concordium,3,100
+808,ConsenSys,3,100
+809,Core-chain,3,100
+810,Cosmos Network,3,100
+811,DEZOS,3,100
+812,Dfinity Foundation,3,100
+813,DIA,3,100
+814,Elrond,3,100
+815,Ethereum,3,100
+816,everiToken,3,100
+817,Feathercoin Development Foundation,3,100
+818,FidelityHouse,3,100
+819,Grain,3,100
+820,Gravity,3,100
+821,HDAC,3,100
+822,High Performance Blockchain (HPB),3,100
+823,Humanized Internet,3,100
+824,ICON,3,100
+825,INCX,3,100
+826,Intello,3,100
+827,Intellos,3,100
+828,IXO,3,100
+829,Jelurida,3,100
+830,Kaze Blockchain solution,3,100
+831,KryptoPal,3,100
+832,Lisk,3,100
+833,LongHash Switzerland,3,100
+834,Monetha,3,100
+835,Multiverse,3,100
+836,Nimiq,3,100
+837,Noku,3,100
+838,Obyte,3,100
+839,Orbi Network,3,100
+840,Pool of Stake,3,100
+841,Quant Network,3,100
+842,Raiden Network,3,100
+843,Status,3,100
+844,Tezos,3,100
+845,Token Commons Network,3,100
+846,Truebit,3,100
+847,Trustwise,3,100
+848,Vereign,3,100
+849,VeriICO,3,100
+850,Waves Platform,3,100
+851,Web3,3,100
